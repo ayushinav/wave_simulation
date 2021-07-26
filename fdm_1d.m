@@ -1,4 +1,4 @@
-% 1-D wave propagation using Finite Element Method
+% 1-D wave propagation using Finite Difference Method
 
 %% Given
 dx= 1;   % Each spatial step in mm
