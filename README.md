@@ -1,2 +1,2 @@
 # wave_simulation
-Not done anything yet, Learning github and making my first pull request.
+Collection of codes to implement wave propagation using different numerical schemes.
